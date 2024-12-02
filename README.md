@@ -95,6 +95,8 @@ Class VIII: Soils with limitations that preclude any agricultural, forestry, or 
 
 ### Land Use and Cover 2019
 
+Land use and cover of the Tuscany Region at a scale of 1:10,000 for 2019. 
+
 Class 111: Residential areas with continuous fabric
 
 Class 112: Residential areas with discontinuous fabric
