@@ -19,51 +19,37 @@ We do this for every "site" to obtain parcels boundaries for sites 001 to 009, a
 
 ### Dominant slope class of the STU
 Raster name: SLOPEDO
+
 Slope class ranges from 0-4 with the following classification:
+
 0: No information
+
 1: Level (dominant slope ranging from 0 to 8 %)
+
 2: Sloping (dominant slope ranging from 8 to 15 %)
+
 3: Moderately steep (dominant slope ranging from 15 to 25 %)
-4: Steep (dominant slope over 25 %)
+
+4: Steep (dominant slope over 25 %)   
 
 ### Surface textural class
 Raster name: TXSRFDO
+
 Surface textural class ranges from 0-9 with the following classification:
+
 0: No information
+
 1: Coarse (18% < clay and > 65% sand)
+
 2: Medium (18% < clay < 35% and >= 15% sand, or 18% < clay and 15% < sand < 65%)
+
 3: Medium fine (< 35% clay and < 15% sand)
+
 4: Fine (35% < clay < 60%)
-5: Very fine (clay > 60 %)
+
+5: Very fine (clay > 60 %)   
+
 9: No mineral texture (Peat soils)
-
-
-### Dominant land use
-Raster name: USEDO
-Land use classes range from 0-30 with the following classification:
-0: No information
-1: Pasture, grassland, grazing land
-2: Poplars
-3: Arable land, cereals
-4: Wasteland, shrub
-5: Forest, coppice
-6: Horticulture
-7: Vineyards
-8: Garrigue
-9: Bush, macchia
-10: Moor
-11: Halophile grassland
-12: Arboriculture, orchard
-13: Industrial crops
-14: Rice
-15: Cotton
-16: Vegetables
-17: Olive trees
-18: Recreation
-19: Extensive pasture, grazing, rough pasture
-20: Dehesa (extensive pastoral system in forest parks in Spain)
-21: Cultivos enarenados (artificial soils for orchards in SE Spain)
-30: Wildlife refuge, land above timberline
 
 ### Dominant soil water (moisture) regime
 Raster name: WR
@@ -87,6 +73,7 @@ Soil water regimes range from 0-4 with the following classification:
 ### Rockiness (%)
 
 ### Soil Use Capacity (Capacita di uso dei suoli)
+
 Calculated according to the 'Land Capability Classification (LCC).' Has the following 8 classes:
 
 Class I: Soils with very few limiting factors, suitable for all crops.
@@ -109,39 +96,73 @@ Class VIII: Soils with limitations that preclude any agricultural, forestry, or 
 ### Land Use and Cover 2019
 
 Class 111: Residential areas with continuous fabric
-Class 112: Residential areas with discontinuous fabric
-Class 1121: Residential appurtenance, scattered buildings
-Class 121: Industrial, commercial and public and private service areas
-Class 1212: Photovoltaic system
-Class 122: Road, railway and technical infrastructure networks
-Class 1221: Roads in wooded areas
-Class 124: Airports
-Class 131: Mining areas
-Class 132: Landfills, scrap yards
-Class 133: Construction sites
-Class 141: Urban green areas
-Class 1411: Cemetery
-Class 142: Recreational and sports areas
-Class 210: Irrigated and non-irrigated crops
-Class 2101: Greenhouses
-Class 2102: Nurseries
-Class 221: Vineyards
-Class 222: Orchards
-Class 2221: Arboriculture
-Class 223: Olive groves
-Class 231: Permanent meadows
-Class 241: Temporary crops associated with permanent crops
-Class 242: Complex cropping and particle systems
-Class 243: Agricultural crops with presence of significant natural spaces
-Class 244: Agroforestry areas
-Class 311: Broadleaf forests
-Class 312: Coniferous forests
-Class 313: Mixed coniferous and broadleaf forests
-Class 321: Natural pastures and meadows
-Class 324: Evolving woodland and shrub vegetation
-Class 332: Bare rocks, cliffs, crags, outcrops
-Class 333: Sparse vegetation
-Class 411: Internal marshes
-Class 511: Watercourses, canals, and waterways
-Class 512: Water bodies
 
+Class 112: Residential areas with discontinuous fabric
+
+Class 1121: Residential appurtenance, scattered buildings
+
+Class 121: Industrial, commercial and public and private service areas
+
+Class 1212: Photovoltaic system
+
+Class 122: Road, railway and technical infrastructure networks
+
+Class 1221: Roads in wooded areas
+
+Class 124: Airports
+
+Class 131: Mining areas
+
+Class 132: Landfills, scrap yards
+
+Class 133: Construction sites
+
+Class 141: Urban green areas
+
+Class 1411: Cemetery
+
+Class 142: Recreational and sports areas
+
+Class 210: Irrigated and non-irrigated crops
+
+Class 2101: Greenhouses
+
+Class 2102: Nurseries
+
+Class 221: Vineyards
+
+Class 222: Orchards
+
+Class 2221: Arboriculture
+
+Class 223: Olive groves
+
+Class 231: Permanent meadows
+
+Class 241: Temporary crops associated with permanent crops
+
+Class 242: Complex cropping and particle systems
+
+Class 243: Agricultural crops with presence of significant natural spaces
+
+Class 244: Agroforestry areas
+
+Class 311: Broadleaf forests
+
+Class 312: Coniferous forests
+
+Class 313: Mixed coniferous and broadleaf forests
+
+Class 321: Natural pastures and meadows
+
+Class 324: Evolving woodland and shrub vegetation
+
+Class 332: Bare rocks, cliffs, crags, outcrops
+
+Class 333: Sparse vegetation
+
+Class 411: Internal marshes
+
+Class 511: Watercourses, canals, and waterways
+
+Class 512: Water bodies
