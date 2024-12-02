@@ -67,14 +67,81 @@ Land use classes range from 0-30 with the following classification:
 
 ### Dominant soil water (moisture) regime
 Raster name: WR
+
 Soil water regimes range from 0-4 with the following classification:
+
 0: No information
+
 1: Not wet within 80 cm for over 3 months, nor wet within 40 cm for over 1 month
+
 2: Wet within 80 cm for 3 to 6 months, but not wet within 40 cm for over 1 month
+
 3: Wet within 80 cm for over 6 months, but not wet within 40 cm for over 11 months
+
 4: Wet within 40 cm depth for over 11 months
 
 ## Global Rainfall Erosivity 
 ### Global R-factor
 
+## Regione Toscana-SIPT: Database Pedologico 
+### Rockiness (%)
+
+### Soil Use Capacity (Capacita di uso dei suoli)
+Calculated according to the 'Land Capability Classification (LCC).' Has the following 8 classes:
+
+Class I: Soils with very few limiting factors, suitable for all crops.
+
+Class II: Soils with moderate limitations that require an appropriate choice of crops and/or moderate conservative practices.
+
+Class III: Soils with severe limitations that drastically reduce the choice of crops and require special conservative practices.
+
+Class IV: Soils with very severe limitations that drastically reduce the choice of crops and require accurate cultivation practices.
+
+Class V: Soils that, despite not showing signs of erosion, have other difficultly-eliminable limitations that restrict their use to pasture, forestry, or as a natural habitat.
+
+Class VI: Soils with severe limitations that render them unsuitable for cultivation and restrict their use, albeit with some obstacles, to pasture, forestry, and as a natural habitat.
+
+Class VII: Soils with very severe limitations that show difficulty even for silvo-pastoral use.
+
+Class VIII: Soils with limitations that preclude any agricultural, forestry, or pastoral use, and can therefore be used for creative, aesthetic, naturalistic purposes, or as a water collection area. This class also includes gullies and rock outcrops.
+
+
+### Land Use and Cover 2019
+
+Class 111: Residential areas with continuous fabric
+Class 112: Residential areas with discontinuous fabric
+Class 1121: Residential appurtenance, scattered buildings
+Class 121: Industrial, commercial and public and private service areas
+Class 1212: Photovoltaic system
+Class 122: Road, railway and technical infrastructure networks
+Class 1221: Roads in wooded areas
+Class 124: Airports
+Class 131: Mining areas
+Class 132: Landfills, scrap yards
+Class 133: Construction sites
+Class 141: Urban green areas
+Class 1411: Cemetery
+Class 142: Recreational and sports areas
+Class 210: Irrigated and non-irrigated crops
+Class 2101: Greenhouses
+Class 2102: Nurseries
+Class 221: Vineyards
+Class 222: Orchards
+Class 2221: Arboriculture
+Class 223: Olive groves
+Class 231: Permanent meadows
+Class 241: Temporary crops associated with permanent crops
+Class 242: Complex cropping and particle systems
+Class 243: Agricultural crops with presence of significant natural spaces
+Class 244: Agroforestry areas
+Class 311: Broadleaf forests
+Class 312: Coniferous forests
+Class 313: Mixed coniferous and broadleaf forests
+Class 321: Natural pastures and meadows
+Class 324: Evolving woodland and shrub vegetation
+Class 332: Bare rocks, cliffs, crags, outcrops
+Class 333: Sparse vegetation
+Class 411: Internal marshes
+Class 511: Watercourses, canals, and waterways
+Class 512: Water bodies
 
