@@ -71,6 +71,23 @@ Soil water regimes range from 0-4 with the following classification:
 
 ## Regione Toscana-SIPT: Database Pedologico 
 ### Rockiness (%)
+The dataset was simplified with the 'Douglas-Peuker' algorithm using the ST_SimplifyPreserveTopology function with a tolerance of 0.5 meters.
+
+0 - no data
+
+1 - absent
+
+3 - slightly rocky (<2)
+
+4 - rocky (2-4)
+
+6 - rocky (4-10)
+
+7 - very rocky (10-25)
+
+8 - extremely rocky (>25)
+
+
 
 ### Soil Use Capacity (Capacita di uso dei suoli)
 
@@ -168,3 +185,7 @@ Class 411: Internal marshes
 Class 511: Watercourses, canals, and waterways
 
 Class 512: Water bodies
+
+
+## Normalized Difference Vegetation Index (NDVI) 
+(300m resolution) (1.11.24 - 11.11.24)
