@@ -66,10 +66,8 @@ Soil water regimes range from 0-4 with the following classification:
 
 4: Wet within 40 cm depth for over 11 months
 
-## Elevation
-As part of the Copernicus programme, the European Space Agency has procured from Airbus a 90 metre resolution global extent digital elevation model. The product's original source is the TanDEM-X mission and has been produced by DLR e.V. (Distribution Airbus Defence and Space GmbH).
-
-The data product is in line with Copernicus' free and open access distribution policy. The data have been aggregated from the original 1-degree by 1-degree tiles, as provided by the ESA data access system, into 10-degree by 10-degrees tiles either for the DEM alone or for the respective auxiliary information
+## Copernicus GLO-90 Digital Elevation Model
+As part of the Copernicus programme, the European Space Agency has procured from Airbus a 90m resolution global extent digital elevation model. Units are in meters.
 
 https://ec.europa.eu/eurostat/web/gisco/geodata/digital-elevation-model/copernicus#Elevation 
 
